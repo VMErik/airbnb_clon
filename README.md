@@ -1,4 +1,4 @@
-# airbnb_clon
+# AIRBNB CLON
 Practica CSS clonando la pagina principal de AIRBNB.
 Utilizamos media query para poder hacer un diseño responsivo.
 
@@ -7,5 +7,5 @@ Utilizamos media query para poder hacer un diseño responsivo.
 
 
 **Responsive**
-![Responsive](/assets/img/responsive.PNG.PNG)
+![Responsive](/assets/img/responsive.PNG)
 
