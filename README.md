@@ -8,6 +8,7 @@ Asi es como lucira nuestro sitio visto desde el navegador de computadoras de esc
 
 
 ### Responsive
-Asi es como se vera nuestro sitio visto desde un telefono movil
+Asi es como se vera nuestro sitio visto desde un telefono movil  
+
 ![Responsive](/assets/img/responsive.PNG)
 
